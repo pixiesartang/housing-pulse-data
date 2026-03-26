@@ -1,0 +1,137 @@
+{
+  "updated": "2026-03-26",
+  "riksbank": {
+    "rate": 1.75,
+    "date": "2026-03-26",
+    "previous_rate": 1.75,
+    "direction": "unchanged",
+    "next_meeting": "7 maj 2026"
+  },
+  "booli": {
+    "apartments": {
+      "Storstockholm": {
+        "1_month": "2.3%",
+        "3_months": "3.3%",
+        "12_months": "2.4%",
+        "ytd": "4.8%",
+        "since_peak": "-3.6%"
+      },
+      "Storgöteborg": {
+        "1_month": "4.1%",
+        "3_months": "2.4%",
+        "12_months": "1.4%",
+        "ytd": "2%",
+        "since_peak": "-9.2%"
+      },
+      "Stormalmö": {
+        "1_month": "0%",
+        "3_months": "0.1%",
+        "12_months": "1.4%",
+        "ytd": "-0.2%",
+        "since_peak": "-8.1%"
+      },
+      "Norra Sverige": {
+        "1_month": "-1.1%",
+        "3_months": "2%",
+        "12_months": "-2.2%",
+        "ytd": "2%",
+        "since_peak": "-10.9%"
+      },
+      "Mellersta Sverige": {
+        "1_month": "-1.3%",
+        "3_months": "1.2%",
+        "12_months": "-2%",
+        "ytd": "1%",
+        "since_peak": "-13.6%"
+      },
+      "Södra Sverige": {
+        "1_month": "0.2%",
+        "3_months": "-0.5%",
+        "12_months": "-2.5%",
+        "ytd": "0.6%",
+        "since_peak": "-14%"
+      }
+    },
+    "houses": {
+      "Storstockholm": {
+        "1_month": "0.7%",
+        "3_months": "-0.3%",
+        "12_months": "-1.7%",
+        "ytd": "2.2%",
+        "since_peak": "-11.9%"
+      },
+      "Storgöteborg": {
+        "1_month": "-0.2%",
+        "3_months": "1%",
+        "12_months": "0.3%",
+        "ytd": "1.6%",
+        "since_peak": "-10.9%"
+      },
+      "Stormalmö": {
+        "1_month": "2.1%",
+        "3_months": "0.1%",
+        "12_months": "-0.6%",
+        "ytd": "2.1%",
+        "since_peak": "-8.6%"
+      },
+      "Norra Sverige": {
+        "1_month": "0.9%",
+        "3_months": "2.8%",
+        "12_months": "-0.3%",
+        "ytd": "1.6%",
+        "since_peak": "-13.6%"
+      },
+      "Mellersta Sverige": {
+        "1_month": "2.4%",
+        "3_months": "-0.7%",
+        "12_months": "-2.7%",
+        "ytd": "0.9%",
+        "since_peak": "-17.8%"
+      },
+      "Södra Sverige": {
+        "1_month": "1.3%",
+        "3_months": "0.2%",
+        "12_months": "-1.3%",
+        "ytd": "0.1%",
+        "since_peak": "-12.6%"
+      }
+    }
+  },
+  "competitor_rates": {
+    "Stabelo": "2,54 %",
+    "SBAB": "3,05 %",
+    "Landshypotek Bank": "3,19 %",
+    "Lån & Spar Bank": "3,19 %",
+    "Hypoteket": "3,19 %",
+    "ICA Banken": "3,33 %",
+    "Skandia": "3,45 %",
+    "Ikano Bank": "3,48 %",
+    "JAK Medlemsbank": "3,58 %",
+    "Danske Bank": "3,74 %",
+    "Swedbank": "3,79 %",
+    "Handelsbanken": "3,84 %",
+    "SEB": "3,84 %",
+    "Ålandsbanken": "3,85 %",
+    "Länsförsäkringar": "3,99 %"
+  },
+  "news": [
+    {
+      "source": "DI",
+      "title": "Trump i ny attack mot Nato – och nytt hot mot Iran",
+      "url": "https://www.di.se/live/trump-i-ny-attack-mot-nato-och-nytt-hot-mot-iran/",
+      "date": "Thu, 26 Mar 2026"
+    },
+    {
+      "source": "DI",
+      "title": "Danmarks centralbank varnar för inflationssmäll",
+      "url": "https://www.di.se/live/danmarks-centralbank-varnar-for-inflationssmall/",
+      "date": "Thu, 26 Mar 2026"
+    },
+    {
+      "source": "DI",
+      "title": "Reparationsnotan för Irankriget: minst 25 miljarder dollar",
+      "url": "https://www.di.se/live/reparationsnotan-for-irankriget-minst-25-miljarder-dollar/",
+      "date": "Thu, 26 Mar 2026"
+    }
+  ]
+}
