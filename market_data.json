@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-13",
+  "updated": "2026-04-20",
   "riksbank": {
     "rate": 1.75,
-    "date": "2026-04-13",
+    "date": "2026-04-20",
     "previous_rate": 1.75,
     "direction": "unchanged",
     "next_meeting": "7 maj 2026"
@@ -11,10 +11,10 @@
     "apartments": {
       "Storstockholm": {
         "1_month": "0.4%",
-        "3_months": "5.2%",
-        "12_months": "2.8%",
-        "ytd": "5.2%",
-        "since_peak": "-3.3%"
+        "3_months": "5.3%",
+        "12_months": "2.9%",
+        "ytd": "5.3%",
+        "since_peak": "-3.2%"
       },
       "Storgöteborg": {
         "1_month": "-0.7%",
@@ -24,32 +24,32 @@
         "since_peak": "-9.8%"
       },
       "Stormalmö": {
-        "1_month": "2.4%",
+        "1_month": "2.5%",
         "3_months": "2.2%",
-        "12_months": "1.9%",
+        "12_months": "2%",
         "ytd": "2.2%",
         "since_peak": "-6%"
       },
       "Norra Sverige": {
-        "1_month": "2.7%",
+        "1_month": "2.6%",
         "3_months": "4.5%",
         "12_months": "4.6%",
         "ytd": "4.5%",
         "since_peak": "-8.7%"
       },
       "Mellersta Sverige": {
-        "1_month": "0.8%",
-        "3_months": "2.2%",
-        "12_months": "-1.4%",
-        "ytd": "2.2%",
-        "since_peak": "-12.7%"
+        "1_month": "0.5%",
+        "3_months": "1.9%",
+        "12_months": "-1.6%",
+        "ytd": "1.9%",
+        "since_peak": "-12.9%"
       },
       "Södra Sverige": {
-        "1_month": "0.6%",
-        "3_months": "1.6%",
+        "1_month": "0.4%",
+        "3_months": "1.4%",
         "12_months": "-3.6%",
-        "ytd": "1.6%",
-        "since_peak": "-13.1%"
+        "ytd": "1.4%",
+        "since_peak": "-13.2%"
       }
     },
     "houses": {
@@ -62,43 +62,43 @@
       },
       "Storgöteborg": {
         "1_month": "0%",
-        "3_months": "1.2%",
-        "12_months": "0.7%",
-        "ytd": "1.2%",
+        "3_months": "1.4%",
+        "12_months": "0.8%",
+        "ytd": "1.4%",
         "since_peak": "-11%"
       },
       "Stormalmö": {
         "1_month": "1.4%",
-        "3_months": "2.9%",
-        "12_months": "-0.2%",
-        "ytd": "2.9%",
-        "since_peak": "-7.4%"
+        "3_months": "2.8%",
+        "12_months": "-0.3%",
+        "ytd": "2.8%",
+        "since_peak": "-7.5%"
       },
       "Norra Sverige": {
-        "1_month": "5.1%",
-        "3_months": "7.4%",
-        "12_months": "3.6%",
-        "ytd": "7.4%",
-        "since_peak": "-9.5%"
+        "1_month": "4.9%",
+        "3_months": "7.2%",
+        "12_months": "3.5%",
+        "ytd": "7.2%",
+        "since_peak": "-9.6%"
       },
       "Mellersta Sverige": {
         "1_month": "3.2%",
-        "3_months": "4.7%",
-        "12_months": "-0.3%",
-        "ytd": "4.7%",
-        "since_peak": "-14.8%"
+        "3_months": "4.6%",
+        "12_months": "-0.4%",
+        "ytd": "4.6%",
+        "since_peak": "-14.9%"
       },
       "Södra Sverige": {
         "1_month": "2.3%",
         "3_months": "2.7%",
-        "12_months": "0.8%",
+        "12_months": "0.9%",
         "ytd": "2.7%",
         "since_peak": "-10.6%"
       }
     }
   },
   "competitor_rates": {
-    "Stabelo": "2,69 %",
+    "Stabelo": "2,71 %",
     "Landshypotek Bank": "3,19 %",
     "SBAB": "3,20 %",
     "Lån & Spar Bank": "3,34 %",
@@ -117,9 +117,15 @@
   "news": [
     {
       "source": "DI",
-      "title": "Experten: ”Förbryllande” – USA väljer Irans taktik",
-      "url": "https://www.di.se/nyheter/experten-forbryllande-usa-valjer-irans-taktik/",
-      "date": "Mon, 13 Apr 2026"
+      "title": "Här kommer kriget synas först",
+      "url": "https://www.di.se/analys/har-kommer-kriget-synas-forst/",
+      "date": "Mon, 20 Apr 2026"
+    },
+    {
+      "source": "DI",
+      "title": "Uppgifter: Iran vänder om fredssamtal",
+      "url": "https://www.di.se/live/uppgifter-iran-vander-om-fredssamtal/",
+      "date": "Mon, 20 Apr 2026"
     }
   ]
 }
