@@ -1,8 +1,8 @@
 {
-  "updated": "2026-04-20",
+  "updated": "2026-04-27",
   "riksbank": {
     "rate": 1.75,
-    "date": "2026-04-20",
+    "date": "2026-04-27",
     "previous_rate": 1.75,
     "direction": "unchanged",
     "next_meeting": "7 maj 2026"
@@ -19,81 +19,81 @@
       "Storgöteborg": {
         "1_month": "-0.7%",
         "3_months": "1.3%",
-        "12_months": "-1.6%",
+        "12_months": "-1.5%",
         "ytd": "1.3%",
         "since_peak": "-9.8%"
       },
       "Stormalmö": {
-        "1_month": "2.5%",
+        "1_month": "2.4%",
         "3_months": "2.2%",
-        "12_months": "2%",
+        "12_months": "1.9%",
         "ytd": "2.2%",
-        "since_peak": "-6%"
+        "since_peak": "-6.1%"
       },
       "Norra Sverige": {
-        "1_month": "2.6%",
-        "3_months": "4.5%",
-        "12_months": "4.6%",
-        "ytd": "4.5%",
-        "since_peak": "-8.7%"
+        "1_month": "2.2%",
+        "3_months": "4.2%",
+        "12_months": "4.3%",
+        "ytd": "4.2%",
+        "since_peak": "-8.9%"
       },
       "Mellersta Sverige": {
-        "1_month": "0.5%",
-        "3_months": "1.9%",
+        "1_month": "0.7%",
+        "3_months": "2.1%",
         "12_months": "-1.6%",
-        "ytd": "1.9%",
-        "since_peak": "-12.9%"
+        "ytd": "2.1%",
+        "since_peak": "-12.8%"
       },
       "Södra Sverige": {
-        "1_month": "0.4%",
-        "3_months": "1.4%",
-        "12_months": "-3.6%",
-        "ytd": "1.4%",
-        "since_peak": "-13.2%"
+        "1_month": "0.3%",
+        "3_months": "1.3%",
+        "12_months": "-3.7%",
+        "ytd": "1.3%",
+        "since_peak": "-13.3%"
       }
     },
     "houses": {
       "Storstockholm": {
-        "1_month": "0.7%",
-        "3_months": "2.5%",
+        "1_month": "0.5%",
+        "3_months": "2.3%",
         "12_months": "-1.8%",
-        "ytd": "2.5%",
+        "ytd": "2.3%",
         "since_peak": "-11.3%"
       },
       "Storgöteborg": {
-        "1_month": "0%",
+        "1_month": "-0.1%",
         "3_months": "1.4%",
-        "12_months": "0.8%",
+        "12_months": "0.7%",
         "ytd": "1.4%",
-        "since_peak": "-11%"
+        "since_peak": "-11.1%"
       },
       "Stormalmö": {
-        "1_month": "1.4%",
-        "3_months": "2.8%",
-        "12_months": "-0.3%",
-        "ytd": "2.8%",
-        "since_peak": "-7.5%"
+        "1_month": "1.2%",
+        "3_months": "3%",
+        "12_months": "-0.1%",
+        "ytd": "3%",
+        "since_peak": "-7.3%"
       },
       "Norra Sverige": {
-        "1_month": "4.9%",
-        "3_months": "7.2%",
-        "12_months": "3.5%",
-        "ytd": "7.2%",
-        "since_peak": "-9.6%"
+        "1_month": "5.3%",
+        "3_months": "7.4%",
+        "12_months": "3.7%",
+        "ytd": "7.4%",
+        "since_peak": "-9.4%"
       },
       "Mellersta Sverige": {
-        "1_month": "3.2%",
-        "3_months": "4.6%",
-        "12_months": "-0.4%",
-        "ytd": "4.6%",
-        "since_peak": "-14.9%"
+        "1_month": "3%",
+        "3_months": "4%",
+        "12_months": "-0.8%",
+        "ytd": "4%",
+        "since_peak": "-15.2%"
       },
       "Södra Sverige": {
         "1_month": "2.3%",
-        "3_months": "2.7%",
-        "12_months": "0.9%",
-        "ytd": "2.7%",
-        "since_peak": "-10.6%"
+        "3_months": "2.3%",
+        "12_months": "0.6%",
+        "ytd": "2.3%",
+        "since_peak": "-10.8%"
       }
     }
   },
@@ -109,23 +109,23 @@
     "Ikano Bank": "3,63 %",
     "Danske Bank": "3,89 %",
     "Swedbank": "3,94 %",
+    "SEB": "3,94 %",
     "Handelsbanken": "3,99 %",
-    "SEB": "3,99 %",
     "Länsförsäkringar": "3,99 %",
     "Ålandsbanken": "4,00 %"
   },
   "news": [
     {
       "source": "DI",
-      "title": "Här kommer kriget synas först",
-      "url": "https://www.di.se/analys/har-kommer-kriget-synas-forst/",
-      "date": "Mon, 20 Apr 2026"
+      "title": "Privatbankschefen pekar ut aktierna de mest förmögna köpte i Iranoron",
+      "url": "https://www.di.se/nyheter/privatbankschefen-pekar-ut-aktierna-de-mest-formogna-kopte-i-iranoron/",
+      "date": "Mon, 27 Apr 2026"
     },
     {
       "source": "DI",
-      "title": "Uppgifter: Iran vänder om fredssamtal",
-      "url": "https://www.di.se/live/uppgifter-iran-vander-om-fredssamtal/",
-      "date": "Mon, 20 Apr 2026"
+      "title": "Starmer i krismöte med centralbanken om Irankriget",
+      "url": "https://www.di.se/live/starmer-i-krismote-med-centralbanken-om-irankriget/",
+      "date": "Mon, 27 Apr 2026"
     }
   ]
 }
