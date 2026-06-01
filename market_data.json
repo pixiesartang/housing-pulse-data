@@ -1,8 +1,8 @@
 {
-  "updated": "2026-05-25",
+  "updated": "2026-06-01",
   "riksbank": {
     "rate": 1.75,
-    "date": "2026-05-25",
+    "date": "2026-06-01",
     "previous_rate": 1.75,
     "direction": "unchanged",
     "next_meeting": "17 juni 2026"
@@ -18,120 +18,101 @@
       },
       "Storgöteborg": {
         "1_month": "1.5%",
-        "3_months": "4.5%",
-        "12_months": "2%",
-        "ytd": "2.7%",
-        "since_peak": "-8.6%"
+        "3_months": "4.4%",
+        "12_months": "1.9%",
+        "ytd": "2.5%",
+        "since_peak": "-8.7%"
       },
       "Stormalmö": {
-        "1_month": "-0.1%",
-        "3_months": "2.1%",
-        "12_months": "2.7%",
-        "ytd": "2.1%",
+        "1_month": "-0.2%",
+        "3_months": "2%",
+        "12_months": "2.6%",
+        "ytd": "2%",
         "since_peak": "-6.1%"
       },
       "Norra Sverige": {
-        "1_month": "-2.6%",
-        "3_months": "-2.4%",
-        "12_months": "4.6%",
-        "ytd": "1.1%",
-        "since_peak": "-11.6%"
+        "1_month": "-2.3%",
+        "3_months": "-2.3%",
+        "12_months": "4.8%",
+        "ytd": "1.4%",
+        "since_peak": "-11.4%"
       },
       "Mellersta Sverige": {
-        "1_month": "2%",
-        "3_months": "1.8%",
-        "12_months": "1.2%",
-        "ytd": "4.7%",
-        "since_peak": "-10.8%"
+        "1_month": "1.8%",
+        "3_months": "1.6%",
+        "12_months": "1%",
+        "ytd": "4.3%",
+        "since_peak": "-11%"
       },
       "Södra Sverige": {
-        "1_month": "0.2%",
+        "1_month": "0.3%",
         "3_months": "1.3%",
-        "12_months": "0.5%",
+        "12_months": "0.6%",
         "ytd": "1.7%",
         "since_peak": "-12.9%"
       }
     },
     "houses": {
       "Storstockholm": {
-        "1_month": "0.4%",
+        "1_month": "0.2%",
         "3_months": "0.5%",
         "12_months": "-0.4%",
-        "ytd": "2.6%",
+        "ytd": "2.4%",
         "since_peak": "-10.8%"
       },
       "Storgöteborg": {
-        "1_month": "-0.3%",
-        "3_months": "-0.8%",
-        "12_months": "-1.5%",
-        "ytd": "0.4%",
-        "since_peak": "-11.4%"
+        "1_month": "-0.5%",
+        "3_months": "-1.3%",
+        "12_months": "-1.7%",
+        "ytd": "0.3%",
+        "since_peak": "-11.5%"
       },
       "Stormalmö": {
-        "1_month": "2.6%",
-        "3_months": "3.6%",
-        "12_months": "2.7%",
-        "ytd": "4.6%",
-        "since_peak": "-5.4%"
+        "1_month": "2.9%",
+        "3_months": "3.3%",
+        "12_months": "2.6%",
+        "ytd": "4.4%",
+        "since_peak": "-5.5%"
       },
       "Norra Sverige": {
-        "1_month": "3.3%",
-        "3_months": "10.5%",
-        "12_months": "5.5%",
-        "ytd": "11.2%",
-        "since_peak": "-6%"
+        "1_month": "3.7%",
+        "3_months": "9.8%",
+        "12_months": "5.3%",
+        "ytd": "10.5%",
+        "since_peak": "-6.1%"
       },
       "Mellersta Sverige": {
-        "1_month": "2%",
-        "3_months": "5.7%",
+        "1_month": "1.4%",
+        "3_months": "6%",
         "12_months": "0.7%",
-        "ytd": "5.8%",
-        "since_peak": "-13.6%"
+        "ytd": "6%",
+        "since_peak": "-13.5%"
       },
       "Södra Sverige": {
         "1_month": "0.9%",
-        "3_months": "3.6%",
-        "12_months": "1.8%",
-        "ytd": "3.2%",
-        "since_peak": "-9.9%"
+        "3_months": "3.3%",
+        "12_months": "1.7%",
+        "ytd": "2.9%",
+        "since_peak": "-10%"
       }
     }
   },
   "competitor_rates": {
     "Stabelo": "2,66 %",
+    "SBAB": "3,15 %",
     "Landshypotek Bank": "3,19 %",
-    "SBAB": "3,20 %",
     "Lån & Spar Bank": "3,34 %",
     "Hypoteket": "3,41 %",
     "ICA Banken": "3,48 %",
+    "Skandia": "3,55 %",
     "JAK Medlemsbank": "3,58 %",
-    "Skandia": "3,60 %",
     "Ikano Bank": "3,63 %",
     "Danske Bank": "3,84 %",
-    "Swedbank": "3,94 %",
+    "Swedbank": "3,89 %",
     "SEB": "3,94 %",
     "Handelsbanken": "3,99 %",
     "Länsförsäkringar": "3,99 %",
     "Ålandsbanken": "4,00 %"
   },
-  "news": [
-    {
-      "source": "DI",
-      "title": "Trump: Avtalet med Iran blir stort – eller inget alls",
-      "url": "https://www.di.se/live/trump-avtalet-med-iran-blir-stort-eller-inget-alls/",
-      "date": "Mon, 25 May 2026"
-    },
-    {
-      "source": "DI",
-      "title": "Iran: Framgångar men ingen överenskommelse",
-      "url": "https://www.di.se/live/iran-framgangar-men-ingen-overenskommelse/",
-      "date": "Mon, 25 May 2026"
-    },
-    {
-      "source": "DI",
-      "title": "Avtalsoptimism stärker kronan och sänker räntorna",
-      "url": "https://www.di.se/live/avtalsoptimism-starker-kronan-och-sanker-rantorna/",
-      "date": "Mon, 25 May 2026"
-    }
-  ]
+  "news": []
 }
