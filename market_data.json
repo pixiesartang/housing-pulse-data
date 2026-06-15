@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-08",
+  "updated": "2026-06-15",
   "riksbank": {
     "rate": 1.75,
-    "date": "2026-06-08",
+    "date": "2026-06-15",
     "previous_rate": 1.75,
     "direction": "unchanged",
     "next_meeting": "17 juni 2026"
@@ -13,86 +13,86 @@
         "1_month": "-0.1%",
         "3_months": "0.7%",
         "12_months": "3.4%",
-        "ytd": "5.6%",
+        "ytd": "5.7%",
         "since_peak": "-2.9%"
       },
       "Storgöteborg": {
         "1_month": "0.1%",
-        "3_months": "0.9%",
+        "3_months": "0.8%",
         "12_months": "2.9%",
         "ytd": "2.7%",
-        "since_peak": "-8.5%"
+        "since_peak": "-8.6%"
       },
       "Stormalmö": {
-        "1_month": "-1.4%",
-        "3_months": "1%",
-        "12_months": "-0.1%",
-        "ytd": "0.6%",
-        "since_peak": "-7.4%"
+        "1_month": "-1.6%",
+        "3_months": "0.9%",
+        "12_months": "-0.2%",
+        "ytd": "0.4%",
+        "since_peak": "-7.5%"
       },
       "Norra Sverige": {
         "1_month": "3.1%",
-        "3_months": "2.9%",
+        "3_months": "3%",
         "12_months": "5.8%",
-        "ytd": "4.7%",
+        "ytd": "4.6%",
         "since_peak": "-8.4%"
       },
       "Mellersta Sverige": {
-        "1_month": "-1.1%",
+        "1_month": "-1%",
         "3_months": "1.6%",
         "12_months": "-0.7%",
-        "ytd": "3%",
+        "ytd": "3.1%",
         "since_peak": "-12%"
       },
       "Södra Sverige": {
-        "1_month": "0.5%",
+        "1_month": "0.4%",
         "3_months": "1.4%",
-        "12_months": "-0.1%",
-        "ytd": "2.5%",
-        "since_peak": "-12.2%"
+        "12_months": "-0.2%",
+        "ytd": "2.4%",
+        "since_peak": "-12.3%"
       }
     },
     "houses": {
       "Storstockholm": {
         "1_month": "0%",
-        "3_months": "0.4%",
+        "3_months": "0.2%",
         "12_months": "-0.1%",
         "ytd": "2.4%",
         "since_peak": "-10.8%"
       },
       "Storgöteborg": {
-        "1_month": "1.2%",
+        "1_month": "1%",
         "3_months": "-0.1%",
-        "12_months": "-0.6%",
-        "ytd": "1.3%",
-        "since_peak": "-10.6%"
+        "12_months": "-0.7%",
+        "ytd": "1.1%",
+        "since_peak": "-10.7%"
       },
       "Stormalmö": {
-        "1_month": "1%",
-        "3_months": "4%",
-        "12_months": "3.5%",
-        "ytd": "5.4%",
-        "since_peak": "-4.6%"
+        "1_month": "1.4%",
+        "3_months": "4.3%",
+        "12_months": "3.6%",
+        "ytd": "5.5%",
+        "since_peak": "-4.5%"
       },
       "Norra Sverige": {
-        "1_month": "1.3%",
+        "1_month": "1.8%",
         "3_months": "8.5%",
         "12_months": "5.8%",
         "ytd": "11.5%",
-        "since_peak": "-5.3%"
+        "since_peak": "-5.2%"
       },
       "Mellersta Sverige": {
-        "1_month": "-0.4%",
+        "1_month": "-0.2%",
         "3_months": "2.8%",
-        "12_months": "1.1%",
-        "ytd": "5.4%",
-        "since_peak": "-13.9%"
+        "12_months": "1.3%",
+        "ytd": "5.6%",
+        "since_peak": "-13.8%"
       },
       "Södra Sverige": {
         "1_month": "3.1%",
-        "3_months": "5.8%",
+        "3_months": "5.7%",
         "12_months": "3.3%",
-        "ytd": "6.1%",
+        "ytd": "6.2%",
         "since_peak": "-7.2%"
       }
     }
@@ -101,8 +101,8 @@
     "Stabelo": "2,66 %",
     "Landshypotek Bank": "3,09 %",
     "SBAB": "3,15 %",
+    "Hypoteket": "3,31 %",
     "Lån & Spar Bank": "3,34 %",
-    "Hypoteket": "3,41 %",
     "ICA Banken": "3,48 %",
     "Skandia": "3,55 %",
     "JAK Medlemsbank": "3,58 %",
@@ -111,21 +111,15 @@
     "Swedbank": "3,89 %",
     "Handelsbanken": "3,94 %",
     "SEB": "3,94 %",
-    "Länsförsäkringar": "3,99 %",
+    "Länsförsäkringar": "3,94 %",
     "Ålandsbanken": "4,00 %"
   },
   "news": [
     {
       "source": "DI",
-      "title": "Experten: ”Vågat drag från Iran”",
-      "url": "https://www.di.se/nyheter/experten-vagat-drag-fran-iran/",
-      "date": "Mon, 08 Jun 2026"
-    },
-    {
-      "source": "DI",
-      "title": "Riksbankens renoveringsnota: 3,3 miljarder",
-      "url": "https://www.di.se/live/riksbankens-renoveringsnota-33-miljarder/",
-      "date": "Mon, 08 Jun 2026"
+      "title": "Dousa: ”Iran fortfarande ett hot”",
+      "url": "https://www.di.se/nyheter/dousa-iran-fortfarande-ett-hot/",
+      "date": "Mon, 15 Jun 2026"
     }
   ]
 }
