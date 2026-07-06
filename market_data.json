@@ -1,8 +1,8 @@
 {
-  "updated": "2026-06-29",
+  "updated": "2026-07-06",
   "riksbank": {
     "rate": 1.75,
-    "date": "2026-06-29",
+    "date": "2026-07-06",
     "previous_rate": 1.75,
     "direction": "unchanged",
     "next_meeting": "20 augusti 2026"
@@ -10,90 +10,90 @@
   "booli": {
     "apartments": {
       "Storstockholm": {
-        "1_month": "-0.2%",
-        "3_months": "0.6%",
-        "12_months": "3.3%",
-        "ytd": "5.6%",
-        "since_peak": "-2.9%"
+        "1_month": "0.7%",
+        "3_months": "0.9%",
+        "12_months": "6.4%",
+        "ytd": "6.3%",
+        "since_peak": "-2.3%"
       },
       "Storgöteborg": {
-        "1_month": "0%",
-        "3_months": "0.8%",
-        "12_months": "2.8%",
-        "ytd": "2.7%",
-        "since_peak": "-8.6%"
+        "1_month": "-1%",
+        "3_months": "0.3%",
+        "12_months": "1.7%",
+        "ytd": "1.5%",
+        "since_peak": "-9.6%"
       },
       "Stormalmö": {
-        "1_month": "-1.5%",
-        "3_months": "1.3%",
-        "12_months": "0.1%",
-        "ytd": "0.8%",
-        "since_peak": "-7.2%"
+        "1_month": "0.5%",
+        "3_months": "-0.4%",
+        "12_months": "1.1%",
+        "ytd": "1.5%",
+        "since_peak": "-6.7%"
       },
       "Norra Sverige": {
-        "1_month": "2.5%",
-        "3_months": "2.7%",
-        "12_months": "5.4%",
-        "ytd": "4.4%",
-        "since_peak": "-8.7%"
+        "1_month": "-1.1%",
+        "3_months": "-0.8%",
+        "12_months": "4.1%",
+        "ytd": "3.3%",
+        "since_peak": "-9.8%"
       },
       "Mellersta Sverige": {
-        "1_month": "-1.2%",
-        "3_months": "1.2%",
-        "12_months": "-1%",
-        "ytd": "2.8%",
-        "since_peak": "-12.2%"
+        "1_month": "2.1%",
+        "3_months": "2.7%",
+        "12_months": "2.9%",
+        "ytd": "5.1%",
+        "since_peak": "-10.2%"
       },
       "Södra Sverige": {
-        "1_month": "0.3%",
-        "3_months": "1.3%",
-        "12_months": "-0.3%",
-        "ytd": "2.4%",
-        "since_peak": "-12.3%"
+        "1_month": "0.8%",
+        "3_months": "1.6%",
+        "12_months": "0.6%",
+        "ytd": "3.2%",
+        "since_peak": "-11.6%"
       }
     },
     "houses": {
       "Storstockholm": {
-        "1_month": "0.1%",
-        "3_months": "0.4%",
-        "12_months": "0%",
+        "1_month": "-0.2%",
+        "3_months": "0%",
+        "12_months": "0.4%",
         "ytd": "2.5%",
         "since_peak": "-10.7%"
       },
       "Storgöteborg": {
         "1_month": "1.1%",
-        "3_months": "-0.1%",
-        "12_months": "-0.8%",
-        "ytd": "1%",
-        "since_peak": "-10.7%"
+        "3_months": "1.8%",
+        "12_months": "0.4%",
+        "ytd": "2%",
+        "since_peak": "-9.8%"
       },
       "Stormalmö": {
-        "1_month": "1.2%",
-        "3_months": "4.2%",
+        "1_month": "1%",
+        "3_months": "4.8%",
         "12_months": "3.4%",
-        "ytd": "5.4%",
-        "since_peak": "-4.7%"
+        "ytd": "6.7%",
+        "since_peak": "-3.7%"
       },
       "Norra Sverige": {
-        "1_month": "1.8%",
-        "3_months": "8.7%",
-        "12_months": "6%",
-        "ytd": "11.9%",
-        "since_peak": "-5.1%"
+        "1_month": "-1.3%",
+        "3_months": "5%",
+        "12_months": "4.1%",
+        "ytd": "10%",
+        "since_peak": "-6.4%"
       },
       "Mellersta Sverige": {
-        "1_month": "-0.1%",
-        "3_months": "3.7%",
-        "12_months": "1.9%",
-        "ytd": "6%",
-        "since_peak": "-13.7%"
+        "1_month": "1.6%",
+        "3_months": "3%",
+        "12_months": "3.2%",
+        "ytd": "6.9%",
+        "since_peak": "-12.7%"
       },
       "Södra Sverige": {
-        "1_month": "3.1%",
-        "3_months": "6.2%",
-        "12_months": "3.7%",
-        "ytd": "6.3%",
-        "since_peak": "-7%"
+        "1_month": "0.5%",
+        "3_months": "4.6%",
+        "12_months": "4%",
+        "ytd": "6.6%",
+        "since_peak": "-6.6%"
       }
     }
   },
@@ -116,15 +116,9 @@
   "news": [
     {
       "source": "DI",
-      "title": "Iran: Har diskuterat Hormuz med Oman",
-      "url": "https://www.di.se/nyheter/iran-har-diskuterat-hormuz-med-oman-78hit/",
-      "date": "Mon, 29 Jun 2026"
-    },
-    {
-      "source": "DI",
-      "title": "Konjunkturbarometer för EMU steg mer än väntat i juni",
-      "url": "https://www.di.se/live/konjunkturbarometer-for-emu-steg-mer-an-vantat-i-juni/",
-      "date": "Mon, 29 Jun 2026"
+      "title": "Riksbankens nya AI får läsa hemliga uppgifter",
+      "url": "https://www.di.se/nyheter/riksbankens-nya-ai-far-lasa-hemliga-uppgifter/",
+      "date": "Mon, 06 Jul 2026"
     }
   ]
 }
