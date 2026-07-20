@@ -1,8 +1,8 @@
 {
-  "updated": "2026-07-13",
+  "updated": "2026-07-20",
   "riksbank": {
     "rate": 1.75,
-    "date": "2026-07-13",
+    "date": "2026-07-20",
     "previous_rate": 1.75,
     "direction": "unchanged",
     "next_meeting": "20 augusti 2026"
@@ -10,89 +10,89 @@
   "booli": {
     "apartments": {
       "Storstockholm": {
-        "1_month": "0.6%",
-        "3_months": "0.9%",
-        "12_months": "6.4%",
-        "ytd": "6.3%",
-        "since_peak": "-2.3%"
+        "1_month": "0.7%",
+        "3_months": "1%",
+        "12_months": "6.5%",
+        "ytd": "6.4%",
+        "since_peak": "-2.2%"
       },
       "Storgöteborg": {
-        "1_month": "-1%",
+        "1_month": "-0.9%",
         "3_months": "0.3%",
         "12_months": "1.7%",
-        "ytd": "1.4%",
-        "since_peak": "-9.7%"
+        "ytd": "1.5%",
+        "since_peak": "-9.6%"
       },
       "Stormalmö": {
         "1_month": "0.4%",
-        "3_months": "-0.7%",
+        "3_months": "-0.6%",
         "12_months": "0.8%",
         "ytd": "1.2%",
         "since_peak": "-6.9%"
       },
       "Norra Sverige": {
         "1_month": "-1%",
-        "3_months": "-0.8%",
-        "12_months": "4.2%",
+        "3_months": "-0.7%",
+        "12_months": "4.3%",
         "ytd": "3.4%",
         "since_peak": "-9.7%"
       },
       "Mellersta Sverige": {
-        "1_month": "1.7%",
-        "3_months": "2.4%",
+        "1_month": "1.8%",
+        "3_months": "2.6%",
         "12_months": "2.5%",
         "ytd": "4.8%",
         "since_peak": "-10.5%"
       },
       "Södra Sverige": {
-        "1_month": "0.9%",
-        "3_months": "1.6%",
-        "12_months": "0.5%",
-        "ytd": "3.1%",
-        "since_peak": "-11.7%"
+        "1_month": "0.7%",
+        "3_months": "1.4%",
+        "12_months": "0.4%",
+        "ytd": "3%",
+        "since_peak": "-11.8%"
       }
     },
     "houses": {
       "Storstockholm": {
         "1_month": "-0.3%",
-        "3_months": "-0.1%",
-        "12_months": "0.3%",
+        "3_months": "0%",
+        "12_months": "0.4%",
         "ytd": "2.4%",
-        "since_peak": "-10.8%"
+        "since_peak": "-10.7%"
       },
       "Storgöteborg": {
         "1_month": "1.1%",
-        "3_months": "1.7%",
+        "3_months": "1.8%",
         "12_months": "0.3%",
         "ytd": "2%",
         "since_peak": "-9.8%"
       },
       "Stormalmö": {
-        "1_month": "1%",
-        "3_months": "4.7%",
-        "12_months": "3.4%",
-        "ytd": "6.6%",
-        "since_peak": "-3.8%"
+        "1_month": "0.9%",
+        "3_months": "4.5%",
+        "12_months": "3.2%",
+        "ytd": "6.5%",
+        "since_peak": "-3.9%"
       },
       "Norra Sverige": {
-        "1_month": "-0.9%",
-        "3_months": "5.3%",
-        "12_months": "4.4%",
-        "ytd": "10.3%",
-        "since_peak": "-6.2%"
+        "1_month": "-1.1%",
+        "3_months": "5.2%",
+        "12_months": "4.3%",
+        "ytd": "10.1%",
+        "since_peak": "-6.3%"
       },
       "Mellersta Sverige": {
         "1_month": "1.9%",
-        "3_months": "3.6%",
-        "12_months": "3.6%",
-        "ytd": "7.4%",
-        "since_peak": "-12.3%"
+        "3_months": "3.5%",
+        "12_months": "3.5%",
+        "ytd": "7.3%",
+        "since_peak": "-12.4%"
       },
       "Södra Sverige": {
-        "1_month": "0.6%",
-        "3_months": "4.7%",
-        "12_months": "4.1%",
-        "ytd": "6.7%",
+        "1_month": "0.7%",
+        "3_months": "4.6%",
+        "12_months": "4%",
+        "ytd": "6.6%",
         "since_peak": "-6.6%"
       }
     }
@@ -116,9 +116,9 @@
   "news": [
     {
       "source": "DI",
-      "title": "Europaräntor stiger när Iranoron blossar upp",
-      "url": "https://www.di.se/live/europarantor-stiger-nar-iranoron-blossar-upp/",
-      "date": "Mon, 13 Jul 2026"
+      "title": "Europaräntor stiger efter förnyad Iranoro",
+      "url": "https://www.di.se/live/europarantor-stiger-efter-fornyad-iranoro/",
+      "date": "Mon, 20 Jul 2026"
     }
   ]
 }
